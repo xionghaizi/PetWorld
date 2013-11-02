@@ -172,7 +172,7 @@
      <Compile Include="Assets\NGUI\Scripts\UI\UITooltip.cs" />
      <Compile Include="Assets\NGUI\Scripts\UI\UIViewport.cs" />
      <Compile Include="Assets\Toon_Level_Kit\Resources\Scripts\BillboardLaub.cs" />
-     <Compile Include="Assets\_Script\GameLogic\Missions\CapturePet.cs" />
+     <Compile Include="Assets\_Script\GameLogic\Missions\CapturePetMission.cs" />
      <Compile Include="Assets\_Script\UI\BtnAdventureClick.cs" />
      <None Include="Assets\NGUI\Resources\Shaders\Unlit - Depth Cutout.shader" />
      <None Include="Assets\JMO Assets\Cartoon FX\Shaders\CFX3 Multiply Color.shader" />
